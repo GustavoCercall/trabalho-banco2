@@ -1,0 +1,7 @@
+Para compilação do projeto é necessário realizar o download dos arquivos presentes no GitHub,
+após o download, abrir o PgAdmin e utilizar o script do banco para criar um novo DB,
+é necessário que a senha utilizada no PgAdmin seja "06041605" devido ao host de conexão
+código-banco, ou caso for diferente, alterar a senha no arquivo "conexão". Após aberto o banco, 
+abrir a pasta "source" do projeto, ir em apresentação e localizar o arquvio "tela principal",
+e executar o projeto. Após executado, criar uma conta através de nossa interface e optar por
+"administrador", onde poderá adicionar artistas e músicas.
